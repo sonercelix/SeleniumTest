@@ -1,0 +1,13 @@
+C:\Project\Turkcell\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Project\Turkcell\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Project\Turkcell\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Project\Turkcell\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Project\Turkcell\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Project\Turkcell\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Project\Turkcell\SeleniumTest\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Project\Turkcell\SeleniumTest\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Project\Turkcell\SeleniumTest\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Project\Turkcell\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Project\Turkcell\SeleniumTest\obj\Debug\SeleniumTest.csproj.CopyComplete
+C:\Project\Turkcell\SeleniumTest\obj\Debug\SeleniumTest.csproj.AssemblyReference.cache
+C:\Project\Turkcell\SeleniumTest\bin\Debug\WebDriver.Support.dll
